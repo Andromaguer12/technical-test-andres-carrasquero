@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "297849750305",
+    "project_id": "sutil-streaming-app",
+    "storage_bucket": "sutil-streaming-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297849750305:android:6e32342d9d30bb4e35b460",
+        "android_client_info": {
+          "package_name": "com.sutilapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297849750305-1sp4nhbvrkmut1bf7rfc9k1jhjse6bl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sutilapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "297849750305-p1iu16t087tsbvg37c8ncg0doapamd64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgA6HEX1EpjVjUjUfvWUTozHos8i9r48g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297849750305-720uh22sjqqgd0vo92bq1kept3a0nl0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
